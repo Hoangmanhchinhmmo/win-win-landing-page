@@ -118,7 +118,7 @@ const Header = () => (
           <a href="#faq" className="text-gray-300 hover:text-white transition-colors">FAQ</a>
           <a href="#contact" className="text-gray-300 hover:text-white transition-colors">Liên Hệ</a>
         </nav>
-        <a href="#contact" className="hidden md:inline-block bg-blue-600 text-white font-semibold px-5 py-2 rounded-lg hover:bg-blue-700 transition-colors">
+        <a href="https://veo3studio.top/auth" className="hidden md:inline-block bg-blue-600 text-white font-semibold px-5 py-2 rounded-lg hover:bg-blue-700 transition-colors">
           Đăng Ký Ngay
         </a>
       </div>
